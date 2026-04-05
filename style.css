@@ -1,0 +1,50 @@
+html{
+    font-family: Iosevka Charon;
+    font-weight: 300;
+
+    background-color: #000800;
+    color: #00a000;
+}
+hr{
+    border: 1px solid #008000;
+}
+
+a{
+    color: #00e000;
+    text-decoration: none;
+}
+a:hover{
+    font-weight: bold;
+    /*font-style: italic;*/
+}
+a:active{
+    color: #00a000;
+}
+
+button{
+    font-family: Iosevka Charon Mono;
+    font-weight: 300;
+    font-size: 20px;
+    
+    background-color: #000800;
+    color: #00e000;
+
+    border: 2px solid #00e000;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: #00e000;
+    color: #000800;
+
+    cursor: pointer;
+
+    font-weight: bold;
+    /*font-style: italic;*/
+}
+button:active{
+    background-color: #00a000;
+    color: #000800;
+
+    /*font-weight: bold;*/
+    /*font-style: italic;*/
+}
