@@ -1,5 +1,5 @@
 html{
-    font-family: Iosevka Charon;
+    font-family: "Iosevka Charon", "Courier New", monospace;
     font-weight: 300;
 
     background-color: #000800;
@@ -22,7 +22,7 @@ a:active{
 }
 
 button{
-    font-family: Iosevka Charon Mono;
+    font-family: "Iosevka Charon Mono", "Courier New", monospace;
     font-weight: 300;
     font-size: 20px;
     
@@ -31,6 +31,11 @@ button{
 
     border: 2px solid #00e000;
     border-radius: 10px;
+    
+    outline: none;
+    cursor: pointer;
+    box-sizing: border-box;
+    padding: 1px 6px;
 }
 button:hover{
     background-color: #00e000;
