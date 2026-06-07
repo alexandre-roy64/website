@@ -1,5 +1,5 @@
 {
-    "testWindowTitle": "Site web de test",
+    "test.windowTitle": "Site web de test",
     "header1": "En-tête 1",
     "header2": "En-tête 2",
     "header3": "En-tête 3",
@@ -8,5 +8,23 @@
     "header6": "En-tête 6",
     "paragraph": "Paragraphe",
     "link": "Lien hypertexte",
-    "button": "Bouton"
+    "button": "Bouton",
+
+    "home.windowTitle": "Site web d'Alexandre ROY",
+    "home.aboutMe": "À propos de moi",
+        "home.links": "Liens",
+        "home.biography": "Biographie",
+        "home.news": "Actualités",
+        "home.contact": "Contact",
+    "home.whatIDo": "Ce que je fais",
+        "home.games": "Jeux vidéo",
+        "home.web": "Web",
+        "home.translation": "Traductions de fan",
+    "home.miscellaneous": "Divers",
+        "home.settings": "Paramètres",
+        "home.donate": "Faire un don",
+    "home.aboutThisSite": "À propos de ce site",
+        "home.code": "Code source",
+        "home.credits": "Crédits",
+        "home.legal": "Mentions légales"
 }

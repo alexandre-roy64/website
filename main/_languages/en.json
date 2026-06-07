@@ -1,5 +1,5 @@
 {
-    "testWindowTitle": "Test website",
+    "test.windowTitle": "Test website",
     "header1": "Header 1",
     "header2": "Header 2",
     "header3": "Header 3",
@@ -8,5 +8,23 @@
     "header6": "Header 6",
     "paragraph": "Paragraph",
     "link": "Hypertext link",
-    "button": "Button"
+    "button": "Button",
+
+    "home.windowTitle": "Alexandre ROY's website",
+    "home.aboutMe": "About me",
+        "home.links": "Links",
+        "home.biography": "Biography",
+        "home.news": "News",
+        "home.contact": "Contact",
+    "home.whatIDo": "What I do",
+        "home.games": "Video games",
+        "home.web": "Web",
+        "home.translation": "Fan translation",
+    "home.miscellaneous": "Miscellaneous",
+        "home.settings": "Settings",
+        "home.donate": "Donate",
+    "home.aboutThisSite": "About this site",
+        "home.code": "Source code",
+        "home.credits": "Credits",
+        "home.legal": "Legal notice"
 }

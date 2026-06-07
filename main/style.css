@@ -23,6 +23,13 @@ body {
     word-break: break-word;
 }
 
+.group {
+    border: 1px solid;
+    border-radius: 20px;
+
+    padding: 0.5em;
+}
+
 a {
     color: #00e000;
 
