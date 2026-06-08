@@ -21,7 +21,7 @@
         "home.web": "Web",
         "home.translation": "Traductions de fan",
     "home.miscellaneous": "Divers",
-        "home.settings": "Paramètres",
+        "home.settings": "Paramètres du site",
         "home.donate": "Faire un don",
     "home.aboutThisSite": "À propos de ce site",
         "home.code": "Code source",
@@ -35,6 +35,24 @@
     "links.videoGames": "Jeux vidéo",
     "links.miscellaneous": "Divers",
 
+    "biography.windowTitle": "Biographie - Site web d'Alexandre ROY",
+
+    "news.windowTitle": "Actualités - Site web d'Alexandre ROY",
+
     "contact.windowTitle": "Contact - Site web d'Alexandre ROY",
-    "contact.text": "Vous pouvez me contacter avec cette adresse e-mail ou sur Discord. Vous pouvez également m'envoyer un message sur un autre réseau social, mais je risque de mettre plus de temps à le voir."
+    "contact.text": "Vous pouvez me contacter avec cette adresse e-mail ou sur Discord. Vous pouvez également m'envoyer un message sur un autre réseau social, mais je risque de mettre plus de temps à le voir.",
+
+    "games.windowTitle": "Jeux vidéo - Site web d'Alexandre ROY",
+
+    "web.windowTitle": "Web - Site web d'Alexandre ROY",
+
+    "translation.windowTitle": "Traductions de fan - Site web d'Alexandre ROY",
+
+    "settings.windowTitle": "Paramètres du site - Site web d'Alexandre ROY",
+
+    "donate.windowTitle": "Faire un don - Site web d'Alexandre ROY",
+
+    "credits.windowTitle": "Crédits - Site web d'Alexandre ROY",
+
+    "legal.windowTitle": "Mentions légales - Site web d'Alexandre ROY"
 }

@@ -21,7 +21,7 @@
         "home.web": "Web",
         "home.translation": "Fan translation",
     "home.miscellaneous": "Miscellaneous",
-        "home.settings": "Settings",
+        "home.settings": "Site settings",
         "home.donate": "Donate",
     "home.aboutThisSite": "About this site",
         "home.code": "Source code",
@@ -35,6 +35,24 @@
     "links.videoGames": "Video games",
     "links.miscellaneous": "Miscellaneous",
 
+    "biography.windowTitle": "Biography - Alexandre ROY's website",
+
+    "news.windowTitle": "News - Alexandre ROY's website",
+
     "contact.windowTitle": "Contact - Alexandre ROY's website",
-    "contact.text": "You can contact me using this e-mail address or on Discord. You can also send me a message on other social media, but I may take longer to see it."
+    "contact.text": "You can contact me using this e-mail address or on Discord. You can also send me a message on other social media, but I may take longer to see it.",
+
+    "games.windowTitle": "Video games - Alexandre ROY's website",
+
+    "web.windowTitle": "Web - Alexandre ROY's website",
+
+    "translation.windowTitle": "Fan translation - Alexandre ROY's website",
+
+    "settings.windowTitle": "Site settings - Alexandre ROY's website",
+
+    "donate.windowTitle": "Donate - Alexandre ROY's website",
+
+    "credits.windowTitle": "Credits - Alexandre ROY's website",
+
+    "legal.windowTitle": "Legal notice - Alexandre ROY's website"
 }
