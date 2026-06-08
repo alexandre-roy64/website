@@ -26,5 +26,12 @@
     "home.aboutThisSite": "About this site",
         "home.code": "Source code",
         "home.credits": "Credits",
-        "home.legal": "Legal notice"
+        "home.legal": "Legal notice",
+
+    "links.windowTitle": "Links - Alexandre ROY's website",
+    "links.forMyself": "For myself",
+    "links.forWhatIDo": "For what I do",
+    "links.socialMedia": "Social media",
+    "links.videoGames": "Video games",
+    "links.miscellaneous": "Miscellaneous"
 }

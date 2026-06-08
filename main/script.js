@@ -47,4 +47,5 @@ function loadHTML(id, file) {
 }
 
 // Load the required HTML files
-loadHTML("fontsapi", "_fontsapi.html");
+loadHTML("fontsapi", "/_fontsapi.html");
+loadHTML("header", "/_header.html");

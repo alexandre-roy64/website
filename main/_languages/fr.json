@@ -26,5 +26,12 @@
     "home.aboutThisSite": "À propos de ce site",
         "home.code": "Code source",
         "home.credits": "Crédits",
-        "home.legal": "Mentions légales"
+        "home.legal": "Mentions légales",
+    
+    "links.windowTitle": "Liens - Site web d'Alexandre ROY",
+    "links.forMyself": "Pour moi-même",
+    "links.forWhatIDo": "Pour ce que je fais",
+    "links.socialMedia": "Réseaux sociaux",
+    "links.videoGames": "Jeux vidéo",
+    "links.miscellaneous": "Divers"
 }
