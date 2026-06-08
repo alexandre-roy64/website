@@ -29,6 +29,16 @@ body {
 
     padding: 0.5em;
 }
+.header {
+    font-weight: 400;
+
+    transition: ease 0.3s;
+}
+.header:hover, .header:focus {
+    font-weight: 800;
+
+    transition: ease 0.3s;
+}
 
 a {
     color: #00e000;

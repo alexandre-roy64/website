@@ -13,7 +13,7 @@
     "home.windowTitle": "Alexandre ROY's website",
     "home.aboutMe": "About me",
         "home.links": "Links",
-        "home.biography": "Biography",
+        "home.whoAmI": "Who am I?",
         "home.news": "News",
         "home.contact": "Contact",
     "home.whatIDo": "What I do",
@@ -35,7 +35,7 @@
     "links.videoGames": "Video games",
     "links.miscellaneous": "Miscellaneous",
 
-    "biography.windowTitle": "Biography - Alexandre ROY's website",
+    "whoAmI.windowTitle": "Who am I? - Alexandre ROY's website",
 
     "news.windowTitle": "News - Alexandre ROY's website",
 

@@ -13,7 +13,7 @@
     "home.windowTitle": "Site web d'Alexandre ROY",
     "home.aboutMe": "À propos de moi",
         "home.links": "Liens",
-        "home.biography": "Biographie",
+        "home.whoAmI": "Qui suis-je ?",
         "home.news": "Actualités",
         "home.contact": "Contact",
     "home.whatIDo": "Ce que je fais",
@@ -35,7 +35,7 @@
     "links.videoGames": "Jeux vidéo",
     "links.miscellaneous": "Divers",
 
-    "biography.windowTitle": "Biographie - Site web d'Alexandre ROY",
+    "whoAmI.windowTitle": "Qui suis-je ? - Site web d'Alexandre ROY",
 
     "news.windowTitle": "Actualités - Site web d'Alexandre ROY",
 
