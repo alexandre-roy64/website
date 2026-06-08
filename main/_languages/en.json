@@ -33,5 +33,8 @@
     "links.forWhatIDo": "For what I do",
     "links.socialMedia": "Social media",
     "links.videoGames": "Video games",
-    "links.miscellaneous": "Miscellaneous"
+    "links.miscellaneous": "Miscellaneous",
+
+    "contact.windowTitle": "Contact - Alexandre ROY's website",
+    "contact.text": "You can contact me using this e-mail address or on Discord. You can also send me a message on other social media, but I may take longer to see it."
 }
