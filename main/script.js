@@ -49,3 +49,7 @@ function loadHTML(id, file) {
 // Load the required HTML files
 loadHTML("fontsapi", "/_fontsapi.html");
 loadHTML("header", "/_header.html");
+loadHTML("news.latestPost", "latestPost.html");
+loadHTML("news.allPosts", "allPosts.html");
+loadHTML("content-fr", "content-fr.html");
+loadHTML("content-en", "content-en.html");

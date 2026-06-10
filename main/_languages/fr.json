@@ -38,6 +38,14 @@
     "whoAmI.windowTitle": "Qui suis-je ? - Site web d'Alexandre ROY",
 
     "news.windowTitle": "Actualités - Site web d'Alexandre ROY",
+    "news.latestPost": "Dernier post",
+    "news.pinnedPosts": "Posts épinglés",
+    "news.getNotifiedText": "Si vous voulez recevoir un e-mail quand un nouveau post est publié, suivez-moi sur Buy Me A Coffee. Aucun compte n'est requis, il me faut juste votre nom et votre adresse e-mail.",
+    "news.getNotifiedButton": "Recevoir un e-mail à chaque nouveau post",
+    "news.allPosts": "Tous les posts",
+    "news.published": "Publié le",
+        "news.09-06-26-newsPage": "Voici la page d'actualités !",
+        "09-06-26": "9 juin 2026",
 
     "contact.windowTitle": "Contact - Site web d'Alexandre ROY",
     "contact.text": "Vous pouvez me contacter avec cette adresse e-mail ou sur Discord. Vous pouvez également m'envoyer un message sur un autre réseau social, mais je risque de mettre plus de temps à le voir.",

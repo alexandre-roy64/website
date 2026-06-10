@@ -38,6 +38,14 @@
     "whoAmI.windowTitle": "Who am I? - Alexandre ROY's website",
 
     "news.windowTitle": "News - Alexandre ROY's website",
+    "news.latestPost": "Latest post",
+    "news.pinnedPosts": "Pinned posts",
+    "news.getNotifiedText": "If you want to receive an e-mail when a new post is published, follow me on Buy Me A Coffee. No account is required, I only need your name and e-mail address.",
+    "news.getNotifiedButton": "Recieve an e-mail for every new post",
+    "news.allPosts": "All posts",
+    "news.published": "Published",
+        "news.09-06-26-newsPage": "Introducing the news page!",
+        "09-06-26": "June 9, 2026",
 
     "contact.windowTitle": "Contact - Alexandre ROY's website",
     "contact.text": "You can contact me using this e-mail address or on Discord. You can also send me a message on other social media, but I may take longer to see it.",
