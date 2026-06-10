@@ -51,6 +51,17 @@
     "contact.text": "Vous pouvez me contacter avec cette adresse e-mail ou sur Discord. Vous pouvez également m'envoyer un message sur un autre réseau social, mais je risque de mettre plus de temps à le voir.",
 
     "games.windowTitle": "Jeux vidéo - Site web d'Alexandre ROY",
+    "games.availableHere": "Mes jeux sont disponibles ici",
+    "games.itch.io": "Voir mon profil itch.io",
+    "games.allGames": "Tous mes jeux",
+        "games.uttt.windowTitle": "Ultra Tic-Tac-Toe - Site web d'Alexandre ROY",
+        "games.uttt.rules": "Règles du jeu",
+            "games.uttt.rules.windowTitle": "Règles du jeu - Ultra Tic-Tac-Toe - Site web d'Alexandre ROY",
+        "games.uttt.credits": "Crédits",
+            "games.uttt.credits.windowTitle": "Crédits - Ultra Tic-Tac-Toe - Site web d'Alexandre ROY",
+        "games.uttt.media": "Médias",
+            "games.uttt.media.windowTitle": "Médias - Ultra Tic-Tac-Toe - Site web d'Alexandre ROY",
+            "games.uttt.media.download": "Télécharger",
 
     "web.windowTitle": "Web - Site web d'Alexandre ROY",
 
