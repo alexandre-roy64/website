@@ -20,9 +20,6 @@
         "home.games": "Video games",
         "home.web": "Web",
         "home.translation": "Fan translation",
-    "home.miscellaneous": "Miscellaneous",
-        "home.settings": "Site settings",
-        "home.donate": "Donate",
     "home.aboutThisSite": "About this site",
         "home.code": "Source code",
         "home.credits": "Credits",
@@ -65,8 +62,6 @@
 
     "translation.windowTitle": "Fan translation - Alexandre ROY's website",
     "translation.jackboxFrance": "With help from the Jackbox France community",
-
-    "settings.windowTitle": "Site settings - Alexandre ROY's website",
 
     "credits.windowTitle": "Credits - Alexandre ROY's website",
 
