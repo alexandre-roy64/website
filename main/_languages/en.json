@@ -24,6 +24,7 @@
         "home.code": "Source code",
         "home.credits": "Credits",
         "home.legal": "Legal notice",
+        "home.privacy": "Privacy policy",
 
     "links.windowTitle": "Links - Alexandre ROY's website",
     "links.forWhatIDo": "For what I do",
@@ -64,5 +65,7 @@
 
     "credits.windowTitle": "Credits - Alexandre ROY's website",
 
-    "legal.windowTitle": "Legal notice - Alexandre ROY's website"
+    "legal.windowTitle": "Legal notice - Alexandre ROY's website",
+
+    "privacy.windowTitle": "Privacy policy - Alexandre ROY's website"
 }

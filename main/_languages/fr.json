@@ -24,6 +24,7 @@
         "home.code": "Code source",
         "home.credits": "Crédits",
         "home.legal": "Mentions légales",
+        "home.privacy": "Politique de confidentialité",
     
     "links.windowTitle": "Liens - Site web d'Alexandre ROY",
     "links.forWhatIDo": "Pour ce que je fais",
@@ -64,5 +65,7 @@
 
     "credits.windowTitle": "Crédits - Site web d'Alexandre ROY",
 
-    "legal.windowTitle": "Mentions légales - Site web d'Alexandre ROY"
+    "legal.windowTitle": "Mentions légales - Site web d'Alexandre ROY",
+    
+    "privacy.windowTitle": "Politique de confidentialité - Site web d'Alexandre ROY"
 }
