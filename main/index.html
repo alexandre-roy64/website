@@ -11,6 +11,15 @@
     <div id="fontsapi"></div>
 </head>
 <body>
+    <script src="https://keepandroidopen.org/banner.js?hidebutton=off&size=mini"></script>
+    <script>
+      document.addEventListener('click', function (e) {
+        var link = e.target.closest && e.target.closest('.kao-banner a');
+        if (link && window.umami) {
+          umami.track('home:keepAndroidOpenBanner');
+        }
+    });
+    </script>
     <h1>Alexandre ROY</h1>
     <div class="group">
         <text data-i18n="home.aboutMe"></text><br>
